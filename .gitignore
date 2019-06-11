@@ -1,0 +1,6 @@
+secret_keys/config.py
+.vscode/settings.json
+virtual_env/*
+secret_keys/__pycache__/__init__.cpython-36.pyc
+secret_keys/__pycache__/config.cpython-36.pyc
+__init__.py
